@@ -11,6 +11,12 @@ Building an Instagram like story bubbles.
 3. A progress anima@on when the bubble is clicked.
 4. The ring should change to a single color aCer the anima@on finishes.
 
+Steps to use : 
+
+1. Download or clone the project in your system.
+2. Run the project.
+
+
 Use the very easy way to make the animation and bubble story UI.
 
 Feel free to use.
