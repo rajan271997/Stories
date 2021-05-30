@@ -2,7 +2,8 @@
 
 Building an Instagram like story bubbles.
 
-![Simulator Screen Shot - iPhone 11 Pro Max - 2021-05-30 at 21 20 45](https://user-images.githubusercontent.com/46319748/120110842-ed8daf80-c18c-11eb-8245-89027089cde3.png)
+![Simulator Screen Shot - iPhone 11 Pro Max - 2021-05-30 at 21 20 45](https://user-images.githubusercontent.com/46319748/120110879-144be600-c18d-11eb-9bb0-92bac7ff3aaf.png)
+
 
 **Highlights**
 1. A circular ring with gradient color.
